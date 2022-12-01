@@ -7,8 +7,5 @@
 * All your files should start by a comment describing the task
 * All SQL keywords should be in uppercase (SELECT, WHERE…)
 * A README.md file, at the root of the folder of the project, is mandatory
-* The length of your files will be tested using wc
-` End `
-`j`
-<me and the type code in cat file > 
+* The length of your files will be tested using `wc`
 
