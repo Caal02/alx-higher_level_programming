@@ -10,7 +10,5 @@
 * The length of your files will be tested using wc
 ` End `
 `j`
-<me> 
-> me 
-$ hkjhkjh
-@kjhjkhk
+<me and the type code in cat file > 
+
